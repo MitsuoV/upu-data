@@ -141,7 +141,7 @@ export const Dashboard: React.FC = () => {
               <Menu size={20} className="text-slate-600" />
             </button>
             <div className="flex items-center gap-2">
-              <h1 className="text-xl font-bold text-slate-800 hidden sm:block tracking-tight">UPU Analytics 2025</h1>
+              <h1 className="text-xl font-bold text-slate-800 hidden sm:block tracking-tight">UPU Data 2025</h1>
             </div>
           </div>
 
