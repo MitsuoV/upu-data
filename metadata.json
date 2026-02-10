@@ -1,0 +1,5 @@
+{
+  "name": "EduStat: University Admission Analytics",
+  "description": "A comprehensive dashboard for analyzing university application statistics, acceptance rates, and academic metrics using database-backed mock data and Excel export capabilities.",
+  "requestFramePermissions": []
+}
